@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+-An app which welcomes its users with active enthusiasm.
+-An app which provide equal benefits and oppurtunities to all its users.
+-An app providing a platform for active participation and commulative development.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+-Generates customized messages for its users.
+-Sends single information to multiple users.
 
 ## Getting started
 
